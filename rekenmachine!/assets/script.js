@@ -115,3 +115,5 @@ function clickButtonEl(key){
         }
     })
 };
+
+document.getElementsByClassName("button").onclick
